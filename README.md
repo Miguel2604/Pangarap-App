@@ -5,3 +5,5 @@ Pangarap is a goal-setting app built with FlutterFlow, aimed at helping users or
 ## Built With FlutterFlow
 
 ## Clone it here: (https://tinyurl.com/22uf9nv6)
+
+![Storyboard](Storyboard.png) 
